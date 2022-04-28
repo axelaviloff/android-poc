@@ -1,0 +1,9 @@
+#odin - Navegação Patrocinada
+app/**/myaccount/datami/ @pessoa1 @pessoa2
+app/**myaccount/datami-logger/ @pessoa3
+
+#waterloo - Central de Notificações
+app/**/myaccount/notificationCenter/ @pessoa4
+
+#waterloo - Push
+app/**/myaccountpush/ @pessoa4
